@@ -1,0 +1,51 @@
+.cloud_commento_proprietario{
+	 font-size: 0.714286rem;
+	 margin-left: 0.357143rem;
+	 padding: 0.142857rem 0.357143rem;
+	 background-color: #21759B;
+	 border: 1px solid #1F6F93;
+	 border-radius: 2px 2px 2px 2px;
+	 color: #FFFFFF;
+}
+
+.cloud_commento_utente{
+	margin-left: 1rem;
+	font-weight:bold;
+}
+
+.cloud_commento_attesa{
+	 font-size: 0.714286rem;
+	 margin-left: 0.357143rem;
+	 padding: 0.142857rem 0.357143rem;
+	 background-color: #663366;
+	 border: 1px solid #660066;
+	 border-radius: 2px 2px 2px 2px;
+	 color: #FFFFFF;
+}
+
+.cloud_approvazione{
+	border:solid 1px #CC6600;
+	background-color:#FFFFCC;
+	color:#CC6600;
+	padding:4px;
+	text-align:center;
+	border-radius: 3px 3px 3px 3px;
+}
+
+.cloud_errore{
+	border:solid 1px #990000;
+	background-color:#FFCCCC;
+	color:#990000;
+	padding:4px;
+	text-align:center;
+	border-radius: 3px 3px 3px 3px;
+}
+
+.cloud_confermato{
+	border:solid 1px #006600;
+	background-color:#CCFF99;
+	color:#006600;
+	padding:4px;
+	text-align:center;
+	border-radius: 3px 3px 3px 3px;
+}
